@@ -17,8 +17,8 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Jepang 1","country":"Jepang","image":"japan","ip":"60.33.45.211","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Jepang 2","country":"Jepang","image":"japan","ip":"219.100.37.13","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Romania","country":"Romania","image":"romania","ip":"5.181.235.14","active":"true","signal":"a"}
+    {"id":1, "file":1, "city":"Jepang 2 TCP","country":"Jepang","image":"japan","ip":"219.104.3.213","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Jepang 2 UDP","country":"Jepang","image":"japan","ip":"219.104.3.213","active":"true","signal":"a"}
     
   ]
 }
