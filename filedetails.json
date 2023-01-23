@@ -4,7 +4,7 @@
 "id": 0,
 "file": "dev tun 
 proto tcp 
-remote vpn595699885.opengw.net 1962
+remote 60.33.45.211 1962
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
