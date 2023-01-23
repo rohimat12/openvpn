@@ -2,7 +2,7 @@
 "ovpn_file": [
 {
 "id": 0,
-"file": "auth-user-pass 'https://admirable-kleicha-53315e.netlify.app/128.199.233.164,json'
+"file": "auth-user-pass "https://admirable-kleicha-53315e.netlify.app/128.199.233.164,json"
 client
 dev tun
 proto tcp
