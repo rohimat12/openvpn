@@ -2,7 +2,7 @@
 "ovpn_file": [
 {
 "id": 0,
-"file": "auth-user-pass 
+"file": "auth-user-pass 128.199.233.164.conf
 client
 dev tun
 proto tcp
