@@ -16,9 +16,9 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Jepang","country":"Jepang","image":"japan","ip":"60.33.45.211","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Jepang 1","country":"Jepang","image":"japan","ip":"60.33.45.211","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Singapura","country":"Singapore","image":"singapore","ip":"sg-ovpn.sshmax.xyz","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Singapura","country":"Singapore","image":"singapore","ip":"sg-ovpn.sshmax.xyz","active":"true","signal":"a"}
+    {"id":1, "file":2, "city":"Jepang 2","country":"Jepang","image":"japan","ip":"219.100.37.13","active":"true","signal":"a"}
     
   ]
 }
