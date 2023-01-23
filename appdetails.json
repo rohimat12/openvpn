@@ -16,9 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Jepang 1","country":"Jepang","image":"japan","ip":"60.33.45.211","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Jepang 2","country":"Jepang","image":"japan","ip":"219.104.3.213","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Amerika","country":"Amerika","image":"unitedstates","ip":"173.198.248.39","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Singapura","country":"Singapura","image":"singapore","ip":"60.33.45.211","active":"true","signal":"a"}
     
   ]
 }
